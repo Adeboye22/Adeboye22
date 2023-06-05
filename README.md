@@ -22,7 +22,7 @@ I'm a Software Engineer, video creator, graduate at ALX Africa. I'm passionate a
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: He/Him.
-- 💡 Fun facts: I love gospel music (I play the bass guitar and drums) . I am a big fan of sports and politics. Samsung and iPhone enthusiast. I love artistic designs, colors, science, FIFA on Playstation.. I find the best out of people.
+- 💡 Fun facts: I love gospel music (I play the bass guitar and drums). I am a big fan of sports and politics. Samsung and Apple enthusiast. I love artistic designs, colors, science, FIFA on Playstation.. I find the best out of people.
 - 🌱 I’m a Frontend Software Engineering graduate at ALX Africa, i build client-side web projects with frameworks like ReactJs  
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Leadership, Business/Marketing Software.
