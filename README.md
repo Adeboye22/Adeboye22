@@ -17,13 +17,13 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a Software Engineer, video creator, graduate at ALX Africa. I'm passionate about learning, business, marketing, web development, discovering & solving problems (in communication, tech, business and marketing), connecting with great minds, and having a positive impact.
+I'm a Software Engineer, Digital Marketer, Video Creator. I'm passionate about learning, business, marketing, web development, discovering & solving problems (in communication, tech, business and marketing), connecting with great minds, and having a positive impact.
 
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: He/Him.
-- 💡 Fun facts: I love gospel music (I play the bass guitar and drums). I am a big fan of sports and politics. Samsung and Apple enthusiast. I love artistic designs, colors, science, FIFA on Playstation.. I find the best out of people.
-- 🌱 I’m a Frontend Software Engineering graduate at ALX Africa, i build client-side web projects with frameworks like ReactJs  
+- 💡 Fun facts: I love gospel music (I play the bass guitar and drums). I am a big fan of sports and politics. Samsung and Apple enthusiast. I love artistic designs, colors, science, FIFA on Playstation, I love vlogging.. I find the best out of people.
+- 🌱 I’m a Frontend Software Engineering graduate at ALX Africa, i build client-side web projects with frameworks like ReactJs. I also possess a bachelor's in Geology from Ekiti State University.  
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Leadership, Business/Marketing Software.
 - 📫 You can contact me via Instagram: [@darhmmy.gram](www.instagram.com/darhmmy.gram/) , email: oyeniyaoluwadamilola@outlook.com or LinkedIn: [Oluwadamilola Adeboye Oyeniya](https://www.linkedin.com/in/oluwadamilola-adeboye-oyeniya-a92446174)
