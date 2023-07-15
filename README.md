@@ -22,8 +22,7 @@ I'm a Software Engineer, Digital Marketer, Video Creator. I'm passionate about l
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: He/Him.
-- 💡 Fun facts: I love gospel music (I play the bass guitar and drums). I am a big fan of sports and politics. Samsung and Apple enthusiast. I love         
-  artistic designs, colors, science, FIFA on Playstation, I love vlogging.. I find the best out of people.
+- 💡 Fun facts: I love gospel music (I play the bass guitar and drums). I am a big fan of sports and politics. Samsung and Apple enthusiast. I love artistic designs, colors, science, FIFA on Playstation, I love vlogging.. I find the best out of people.
 - 🌱 I’m a Frontend Software Engineering graduate at ALX Africa, i build client-side web projects with frameworks like ReactJs. I also possess a bachelor's   in Geology from Ekiti State University.  
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Leadership, Business/Marketing Software.
