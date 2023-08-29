@@ -17,7 +17,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a Software Engineer, Digital Marketer, Video Creator. I'm passionate about learning, business, marketing, web development, discovering & solving problems (in communication, tech, business and marketing), connecting with great minds, and having a positive impact.
+I'm a Software Engineer (Frontend) proficient in utilizing technology to write code for crafting responsive, interactive, and functional applications. With two years of coding experience, I've contributed to project deployment as part of collaborative teams focused on web app development. The motivation to design software products that prioritize user-friendliness, interactivity, and alignment with user requirements drives me. I look forward to the opportunity of collaborating with an organization that shares the objective of satisfying customer needs through web-based solutions.
 
 **Here's a quick summary about me**:
 
