@@ -17,14 +17,13 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a Software Engineer proficient in utilizing technology to write code for crafting responsive, interactive, and functional applications. With two years of coding experience, I've contributed to project deployment as part of collaborative teams focused on web app development. The motivation to design software products that prioritize user-friendliness, interactivity, and alignment with user requirements drives me. I look forward to the opportunity of collaborating with an organization that shares the objective of satisfying customer needs through web-based solutions.
+I'm a Software Engineer proficient in utilizing technology to write code for crafting responsive, interactive, and functional applications. With three years of coding experience, I've contributed to projects deployments as part of collaborative teams focused on web app development. The motivation to design software products that prioritize user-friendliness, interactivity, and alignment with user requirements drives me.
 
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: He/Him.
 - 💡 Fun facts: I love gospel music (I play the bass guitar and drums). I am a big fan of sports and politics. Samsung and Apple enthusiast. I love artistic designs, colors, science, FIFA on Playstation, I love vlogging.. I find the best out of people.
-- 🌱 I’m a Frontend Software Engineering graduate at ALX Africa, i build client-side web projects with frameworks like ReactJs. I also possess a bachelor's   in Geology from Ekiti State University.  
-- 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
+- 🌱 I’m a Software Engineering graduate at ALX Africa, i build client-side web projects with frameworks like ReactJs. I also possess a bachelor's   in Geology from Ekiti State University.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Leadership, Business/Marketing Software.
 - 📫 You can contact me via Instagram: [@darhmmy.gram](www.instagram.com/darhmmy.gram/) , email: oyeniyaoluwadamilola@outlook.com or LinkedIn: [Oluwadamilola Adeboye Oyeniya](https://www.linkedin.com/in/oluwadamilola-adeboye-oyeniya-a92446174)
 
